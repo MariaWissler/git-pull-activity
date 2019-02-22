@@ -22,7 +22,7 @@ end
 # sets of changes together.
 
 def robot_noise
-   puts "beep boop"
+  puts "beep boop"
 end
 
 def train_noise
@@ -34,5 +34,5 @@ end
 # Git doesn't know what to do in this case, so you'll have to
 # merge the two versions by hand.
 def clock_noise
-  puts ""
+  puts "tock"
 end
